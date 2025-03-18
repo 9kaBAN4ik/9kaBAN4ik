@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my nickname is 9kaBAN4ik</h1>
 <h3 align="center">Software developer from Estonia</h3>
 
-- 🌱 I'm currently learning **Python, Java, HTML, CSS, C#**  
+- 🌱 I'm currently learning **Python, Java, HTML, CSS, C#, PHP**  
 - 📫 My username in Telegram **[@DotaIntellekt](https://t.me/DOTAINTELLEKT)**  
 
 ---
