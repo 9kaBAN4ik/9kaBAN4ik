@@ -2,7 +2,7 @@
 <h3 align="center">Software developer from Estonia</h3>
 
 - 🌱 I'm currently learning **Python, Java, HTML, CSS, C#**  
-- 📫 My username in Telegram **[@IWantToEatUrPancreas](https://t.me/DOTAINTELLEKT)**  
+- 📫 My username in Telegram **[@DotaIntellekt](https://t.me/DOTAINTELLEKT)**  
 
 ---
 
