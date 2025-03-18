@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira" />
   <img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 ---
