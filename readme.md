@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira" />
   <img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
